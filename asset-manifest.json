@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/brazao-dot-dev2/static/css/main.c6aea74a.css",
-    "main.js": "/brazao-dot-dev2/static/js/main.65370bce.js",
-    "index.html": "/brazao-dot-dev2/index.html",
-    "main.c6aea74a.css.map": "/brazao-dot-dev2/static/css/main.c6aea74a.css.map",
-    "main.65370bce.js.map": "/brazao-dot-dev2/static/js/main.65370bce.js.map"
+    "main.css": "/static/css/main.c6aea74a.css",
+    "main.js": "/static/js/main.cd67546d.js",
+    "index.html": "/index.html",
+    "main.c6aea74a.css.map": "/static/css/main.c6aea74a.css.map",
+    "main.cd67546d.js.map": "/static/js/main.cd67546d.js.map"
   },
   "entrypoints": [
     "static/css/main.c6aea74a.css",
-    "static/js/main.65370bce.js"
+    "static/js/main.cd67546d.js"
   ]
 }
