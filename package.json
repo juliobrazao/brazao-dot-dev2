@@ -2,7 +2,7 @@
   "homepage": "https://brazao.dev",
   "name": "brazao-dot-dev",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@hookform/resolvers": "^3.3.1",
     "@testing-library/jest-dom": "^5.17.0",
